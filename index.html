@@ -1,0 +1,47 @@
+---
+layout: default
+title: Zin Abidin
+---
+<div class="transparent z-1 vh-100 absolute right-0 flex justify-center items-center">
+  <img class="w-60-l w-90 flip-vertical-right" src="assets/logo.svg" alt="">
+</div>
+
+<div id="fullpage">
+
+  {% assign sorted_issue = site.issue | sort: 'category' %}
+  {% for issue in sorted_issue reversed %}
+  <div class="section mv0 w-100 vh-100 cover flex items-end justify-end" style="background:url({{issue.cover}}) center">
+    <a href="{{issue.url | relative_url}}" class="link flex flex-column white underline-hover tr f-headline-ns f2 pa4-ns pa2 w-70-ns w100">
+      <span>Issue #{{issue.category}}</span>
+      <span>{{issue.title}}</span>
+    </a>
+  </div>
+  {% endfor %}
+
+</div>
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.8/fullpage.extensions.min.js" integrity="sha256-pwVO9xs/zTEUDEzK1G4AbAAZbAzmU30SniNu2b9O0UY=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.8/fullpage.min.js" integrity="sha256-caNcSA0LvOCX90PTuEbwl+V09xPMca13CJUasl+VCtk=" crossorigin="anonymous"></script>
+<script type="text/javascript">
+  new fullpage('#fullpage', {
+    //options here
+    autoScrolling: true,
+    verticalCentered: false,
+    dragAndMove: true,
+  });
+
+  //methods
+  fullpage_api.setAllowScrolling(true);
+</script>

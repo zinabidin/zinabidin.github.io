@@ -1,0 +1,25 @@
+---
+label: Issue
+hide_body: false
+display_field: category
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Judul
+- name: category
+  type: text
+  config:
+    required: true
+    min: 2
+  label: Nomor Issue
+  description: 'Contoh: 01, 03, 152, dst.'
+- name: cover
+  type: file
+  config:
+    maxSize: 1
+  label: Sampul
+  description: Gambar sampul issue (nama file tidak boleh mengandung spasi).
+pages:
+- _issue/memelihara-burung-yang-langka.md
