@@ -23,7 +23,3 @@ fields:
     required: false
   label: Biografi Penulis
   description: Biografi singkat penulis.
-pages:
-- _posts/Issue 00/burung-papa-tidak-sakit.md
-- _posts/Issue 00/every-tuesday-thursday-7pm-9pm.md
-- _posts/Issue 00/the-quick-brown-fox-jumps-over-the-lazy-dog.md
