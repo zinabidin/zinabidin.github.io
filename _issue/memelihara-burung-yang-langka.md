@@ -1,7 +1,7 @@
 ---
-title: Memelihara Burung Yang Langka
-category: '00'
-cover: "/assets/img/space-wallpaper.jpg"
+title: Pandemi
+category: '01'
+cover: "/assets/img/02-Virus Outbreak Jakarta Daily life--HAFITZ MAULANA.jpg"
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+2020 belum genap berjalan setengah tahun namun kita sudah mesti dihadapkan musuh besar bernama wabah. Kehadiran wabah yang menyebar di banyak negara membuat masyarakat hidup dalam ketakutan sekaligus ketidakpastian. Tak ketinggalan, perubahan pun turut menyertainya sehingga melahirkan apa yang disebut sebagai kenormalan baru. Kerja dari rumah, jalanan sepi, kota mati, bertemu via daring, dan sebagainya. Dalam Issue #1, kami menawarkan beberapa tulisan tentang dampak pandemi terhadap kehidupan orang-orang di dalamnya, entah itu musik, kebijakan pemerintah, sampai posisi sebagai perempuan. Tulisan dirangkum dalam banyak gaya dan bentuk; santai, ringan, maupun reportase serta analisis. Selamat membaca.
