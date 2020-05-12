@@ -26,7 +26,7 @@ Teman saya sesama pengajar sempat mengeluhkan hal yang sama, *mood-*nya untuk ku
 
 Sementara mahasiswa saya, yang di umur mereka lagi getol _nongkrong_ dan kelayapan, merasa stres juga karena mesti kehilangan momen semacam itu. Bisa, kata mereka, tetap menjalin interaksi lewat aplikasi _meeting_. Tapi, toh, rasanya seperti mengunyah Chiki minus MSG.
 
-Di samping itu, mereka juga sering kehilangan _mood_ belajar karena sering sekali muncul distraksi, entah dari ibu yang minta angkat jemuran, adik kecil yang berisik, godaan untuk buka _tab_ YouTube, nge-_game_, dan sebagainya.
+Di samping itu, mereka juga sering kehilangan _mood_ belajar karena sering sekali muncul distraksi, entah dari ibu yang minta angkat jemuran, adik kecil yang berisik, godaan untuk buka _tab_ YouTube, nge-*game*, dan sebagainya.
 
 Berikutnya, tanpa disangka, kerja di rumah akibat pandemi membuat dompet saya lebih cepat melompong. Satu, karena di rumah dan minim kegiatan selain membuka laptop belaka, saya dan (terlebih) pasangan jadi lebih suka _ngemil_: jajan di sekitaran rumah atau pesan makanan via aplikasi.
 
@@ -36,7 +36,7 @@ Buat saya, bekerja dari rumah itu bukan masalah karena saya pun sejak dulu serin
 
 Saya pikir-pikir, dalam kondisi macam sekarang ini yang jadi penting adalah _support system,_ entah itu keluarga, pacar, teman, atau kenalan. Menjaga kewarasan sendirian saja itu susahnya minta ampun, apalagi bagi orang-orang yang memang punya _track record_ gangguan kecemasan, panik, depresi, dan kebutuhan bersosialisasi langsung yang menjulang.
 
-Lalu, dalam kondisi yang lebih malang daripada saya seperti perempuan-perempuan yang masih mengadopsi pembagian peran gender tradisional, bebannya bisa membuat mereka meledak. Bayangkan, bekerja untuk kantor plus berbenah rumah lantaran pasangan bilang “itu pekerjaan perempuan.” Atau buat ibu rumah tangga, sumpeknya tak ketulungan kalau 24/7 ketemu pasangan dan anak (yang juga diliburkan sekolahnya) dan harus mengurus mereka sepanjang hari. Kapan _me time-_nya?
+Lalu, dalam kondisi yang lebih malang daripada saya seperti perempuan-perempuan yang masih mengadopsi pembagian peran gender tradisional, bebannya bisa membuat mereka meledak. Bayangkan, bekerja untuk kantor plus berbenah rumah lantaran pasangan bilang “itu pekerjaan perempuan.” Atau buat ibu rumah tangga, sumpeknya tak ketulungan kalau 24/7 ketemu pasangan dan anak (yang juga diliburkan sekolahnya) dan harus mengurus mereka sepanjang hari. Kapan *me time-*nya?
 
 Dan pada akhirnya, bukannya membenarkan orang-orang untuk terus-terusan mengeluh. Tapi, mengeluarkan emosi dan _unek-unek_ dalam bentuk apa pun pada satu waktu atau satu titik itu saya rasa perlu dan sehat. Sebaliknya, dicekoki serta bersedia untuk tetap berpikir positif _no matter what_ atau ketika sebenarnya emosi kita sedang buruk itu malah bikin kesehatan mental kita jatuh lebih buruk lagi.
 
