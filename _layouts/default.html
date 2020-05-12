@@ -3,7 +3,8 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Zin Abidin - {{page.title}}</title>
+  <title>{%  if page.title == "Zin Abidin" %} Zin Abidin {% elsif page.layout == "issue" %} Zin Abidin - Issue #{{page.category}} {% elsif page.layout != "issue"%} Zin Abidin - {{page.title}} {% endif %}
+  </title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="/assets/main.css" charset="utf-8" />
   <link href="https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">

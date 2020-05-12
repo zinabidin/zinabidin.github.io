@@ -29,8 +29,6 @@ github_username:
 plugins:
   - jekyll-feed
 
-plugins: [jekyll-youtube]
-
 collections:
   issue:
     output: true
