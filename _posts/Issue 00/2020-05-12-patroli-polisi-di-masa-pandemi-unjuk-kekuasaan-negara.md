@@ -1,5 +1,5 @@
 ---
-categories: '00'
+categories: '01'
 title: 'Patroli Polisi di Masa Pandemi: Unjuk Kekuasaan Negara?'
 author: Faisal Irfani
 bio: Faisal Irfani menghabiskan waktunya untuk menulis dan mendengar musik.
