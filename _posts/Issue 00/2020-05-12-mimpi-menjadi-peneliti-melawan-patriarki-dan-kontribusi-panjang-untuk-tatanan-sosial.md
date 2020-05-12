@@ -10,7 +10,7 @@ Sebagai seorang perempuan, aku merasa harus bekerja keras berkali-kali lipat unt
 
 Padahal, aku selalu serius memikirkan segala hal yang berhubungan dengan dunia akademik dan riset. Seperti bisakah kita menjadi seorang peneliti dengan satu penelitian saja seumur hidup kita? Maksudnya, kesimpulan dari penelitian hanya dapat ditulis setelah kita mencapai beberapa transformasi yang emansipatoris dalam masyarakat. Contohnya, sebagai seorang peneliti feminis, aku hanya dapat menuliskan kesimpulan setelah aku menyaksikan keruntuhan patriarki.
 
-Atau, misalnya, kenapa r_esearcher_ itu jadi sebuah profesi? Aku pikir, semua orang bisa jadi _researcher_. Kuncinya tinggal seberapa besar kemauan untuk belajar, menggali lebih dalam tentang hal-hal di sekitar kita. Aku sering berpikir kalau _researcher_ itu, _to some extent_, _is a bullshit job._ Kecuali kalau posisi _“the researcher”_ adalah _work hand-in hand with people to change some shitty conditions in the society._
+Atau, misalnya, kenapa _researcher_ itu jadi sebuah profesi? Aku pikir, semua orang bisa jadi _researcher_. Kuncinya tinggal seberapa besar kemauan untuk belajar, menggali lebih dalam tentang hal-hal di sekitar kita. Aku sering berpikir kalau _researcher_ itu, _to some extent_, _is a bullshit job._ Kecuali kalau posisi _“the researcher”_ adalah _work hand-in hand with people to change some shitty conditions in the society._
 
 Penting, rasanya, bagiku untuk bikin riset soal mengapa masih banyak _researcher_ yang bahkan tidak memiliki _deep thought_ dan _feeling_ tentang sesuatu di sekelilingnya, tapi tetap saja—percaya diri atau mungkin memaksakan diri—_shamelessly conduct a research_.
 
