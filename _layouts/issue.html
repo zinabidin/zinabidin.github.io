@@ -22,7 +22,8 @@ layout: default
   <div class="mh6-ns mh3 mb5 w-60-ns lh-title">
     <h2 class="lh-solid">Daftar Isi</h2>
 
-    {%  for post in site.categories[page.category] %}
+    {% assign sorted_post = site.categories[page.category] | sort: 'author' %}
+    {%  for post in sorted_post %}
       <a class="link black" href="{{post.url}}">
         <div class="f4"> {{post.title}} </div>
         <div class="mb2 f6"> {{post.author}} </div>
