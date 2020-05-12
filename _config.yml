@@ -28,7 +28,8 @@ github_username:
 # Build settings
 plugins:
   - jekyll-feed
-  - jekyll-youtube
+
+plugins: [jekyll-youtube]
 
 collections:
   issue:
