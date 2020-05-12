@@ -23,3 +23,11 @@ fields:
     required: false
   label: Biografi Penulis
   description: Biografi singkat penulis.
+pages:
+- _posts/Issue 00/2020-05-12-virus-outbreak-jakarta-daily-life-sebuah-photo-essay.md
+- _posts/Issue 00/dilema-distopia.md
+- _posts/Issue 00/kerja-dari-rumah-pintu-masuk-ke-neraka.md
+- _posts/Issue 00/khun-narin-mengajari-kita-bagaimana-cara-bersenang-senang.md
+- _posts/Issue 00/masa-depan-musik-di-masa-pandemi-beralih-ke-ruang-daring.md
+- _posts/Issue 00/mimpi-menjadi-peneliti-melawan-patriarki-dan-kontribusi-panjang-untuk-tatanan-sosial.md
+- _posts/Issue 00/patroli-polisi-di-masa-pandemi-unjuk-kekuasaan-negara.md
