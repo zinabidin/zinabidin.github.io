@@ -23,3 +23,5 @@ fields:
     required: false
   label: Biografi Penulis
   description: Biografi singkat penulis.
+pages:
+- _posts/Issue 00/virus-outbreak-jakarta-daily-life-sebuah-photo-essay.md
