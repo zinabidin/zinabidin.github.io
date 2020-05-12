@@ -1,6 +1,6 @@
 ---
 categories: '01'
-title: Virus Outbreak Jakarta Daily Life; Sebuah Photo Essay
+title: Jakarta Dihantam Wabah
 author: Hafitz Maulana
 bio: Hafitz Maulana adalah fotografer yang berdomisili di Jakarta. Ia sempat menjadi
   finalis Permata Photojournalist Grant 2019.
