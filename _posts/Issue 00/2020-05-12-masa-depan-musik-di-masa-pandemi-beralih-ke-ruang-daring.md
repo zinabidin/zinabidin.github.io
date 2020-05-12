@@ -6,8 +6,6 @@ bio: Khaisar Hafidh adalah vokalis-gitaris Eisen, band rock asal Surabaya. Ia ju
   bagian dari kolektif Rumah Gemah Ripah.
 
 ---
-**Masa Depan Musik di Masa Pandemi: Beralih ke Ruang Daring?**
-
 Entah kebetulan atau dia memang cenayang, dalam lirik lagu “She Looks Like Fun,” Alex Turner bernyanyi, “_No one’s on the street, we moved it all online as of March_.”
 
 Sudah lebih dari tiga bulan tata kehidupan hampir seluruh umat manusia di dunia berubah, semenjak virus bernama corona merebak dan ditetapkan otoritas kesehatan terkait sebagai pandemi. Semua pilar penyangga, baik itu ekonomi, sosial, sampai politik dibuat kalang kabut sekaligus dituntut beradaptasi dengan kenormalan baru, yang kita tak pernah tahu kapan berakhirnya. Masyarakat terpaksa bekerja dari rumah, kota mendadak sepi, dan masa depan semakin diselimuti ketidakpastian.
