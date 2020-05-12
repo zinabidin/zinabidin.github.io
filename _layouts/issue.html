@@ -15,12 +15,14 @@ layout: default
   </div>
 
   <div class="mh6-ns mh3 mv5-ns mv3 w-60-ns lh-copy">
-    <h2 class="lh-solid">Editorial</h2>
-    {{content}}
+    <h2 class=" lh-solid">Editorial</h2>
+    <div class="f4-ns">
+      {{content}}
+    </div>
   </div>
 
   <div class="mh6-ns mh3 mb5 w-60-ns lh-title">
-    <h2 class="lh-solid">Daftar Isi</h2>
+    <h2 class=" lh-solid">Daftar Isi</h2>
 
     {% assign sorted_post = site.categories[page.category] | sort: 'author' %}
     {%  for post in sorted_post %}
