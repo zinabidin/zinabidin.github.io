@@ -1,5 +1,5 @@
 ---
-categories: '00'
+categories: '01'
 title: 'Masa Depan Musik di Masa Pandemi: Beralih ke Ruang Daring?'
 author: Khaisar Hafidh
 bio: Khaisar Hafidh adalah vokalis-gitaris Eisen, band rock asal Surabaya. Ia juga
