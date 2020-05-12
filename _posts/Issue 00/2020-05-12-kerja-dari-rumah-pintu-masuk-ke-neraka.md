@@ -1,5 +1,5 @@
 ---
-categories: '00'
+categories: '01'
 title: 'Kerja dari Rumah: Pintu Masuk ke Neraka?'
 author: Patresia Kirnandita
 bio: Patresia Kirnandita sekarang menjadi penulis di Magdalene, situs yang fokus pada
