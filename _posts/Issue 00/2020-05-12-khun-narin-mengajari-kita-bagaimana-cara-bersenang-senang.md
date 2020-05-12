@@ -5,8 +5,6 @@ author: Faisal Irfani
 bio: Faisal Irfani menghabiskan waktunya untuk menulis dan mendengar musik.
 
 ---
-**Khun Narin Mengajari Kita Bagaimana Cara Bersenang-senang**
-
 _Perkenalkan Khun Narin, orkes band jalanan dari Thailand yang patut kamu simak supaya harimu tetap waras dan bahagia di tengah masa pandemi._
 
 Berada di rumah selama karantina di masa pandemi membuat kita bisa melakukan hal-hal yang biasanya cuma jadi wacana. Memasak beragam jenis makanan berbekal resep serta tutorial yang diperoleh dari YouTube atau memutuskan berkebun di halaman rumah yang luasnya tak seberapa adalah salah dua contohnya. Semua kamu kerjakan demi membunuh waktu luang yang teramat banyak, juga menjaga nalar agar senantiasa dipenuhi kewarasan.
