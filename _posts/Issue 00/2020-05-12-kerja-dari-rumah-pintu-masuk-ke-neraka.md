@@ -16,7 +16,7 @@ Rumah juga tak lagi menjadi tempat istirahat saja sekarang. Ini juga yang menyum
 
 Di tengah kejenuhan ini, saya tidak punya opsi lain untuk bekerja selain _mantengin_ laptop, terkoneksi dengan internet, dan mulai menulis, _meeting,_ dan wawancara jika tidak lewat telepon. Kegiatan saya yang berhubungan dengan kerja jurnalis ini menciptakan keletihan ekstra, apalagi saat harus mengikuti berbagai _webinar_ untuk diliput yang menyebalkannya sering datang di waktu bersamaan. Bukan rahasia lagi kalau melihat layar lama-lama membuat mata cepat lelah, punggung dan pinggang pegal karena kebanyakan duduk, dan buat beberapa orang mungkin sampai bikin sakit kepala.
 
-Lagi-lagi, sama seperti rumah, gawai dan perangkat teknologi pun bisa diasosiasikan dengan sesuatu yang tidak menyenangkan. Kita yang biasanya senang bermain media sosial atau nonton dan nge-_game_ di laptop bisa _mbleneg_ duluan. Saya malah sempat beberapa kali _ngeblank_ sewaktu lihat layar laptop setelah seharian mengajar dan disambung dengan liputan.
+Lagi-lagi, sama seperti rumah, gawai dan perangkat teknologi pun bisa diasosiasikan dengan sesuatu yang tidak menyenangkan. Kita yang biasanya senang bermain media sosial atau nonton dan nge-*game* di laptop bisa _mbleneg_ duluan. Saya malah sempat beberapa kali _ngeblank_ sewaktu lihat layar laptop setelah seharian mengajar dan disambung dengan liputan.
 
 Konon, kejenuhan parah bisa menyumbang _creative block_ atau bahkan bikin _blo’on_ seketika. Tidak pernah saya bayangkan sebelumnya kalau kondisi “_new normal_” bekerja di rumah ini bisa sejauh itu mempengaruhi proses berpikir saya. Selain itu, entah kenapa saya merasa kualitas tulisan atau proses mengajar _online_ saya tidak sebernas hari-hari sebelum pandemi.
 
