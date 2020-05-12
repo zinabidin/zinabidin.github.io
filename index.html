@@ -11,7 +11,7 @@ title: Zin Abidin
   {% assign sorted_issue = site.issue | sort: 'category' %}
   {% for issue in sorted_issue reversed %}
   <div class="section mv0 w-100 vh-100 cover flex items-end justify-end" style="background:url({{issue.cover | relative_url}}) center">
-    <a href="{{issue.url | relative_url}}" class="link flex flex-column white underline-hover tr f-headline-ns f2 pa4-ns pa2 w-70-ns w100">
+    <a href="{{issue.url | relative_url}}" class="link flex flex-column white underline-hover tr f-headline-ns f1 pa4-ns pa2 w-70-ns w100">
       <span>Issue #{{issue.category}}</span>
       <span>{{issue.title}}</span>
     </a>
