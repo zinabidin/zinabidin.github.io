@@ -13,8 +13,6 @@ Sementara bagi mereka yang suka musik, masa karantina adalah momen yang tepat un
 
 Nama Khun Narin saya dapatkan tidak lama ini, ketika pada suatu malam rasa kebosanan dan bingung-mau-ngapain-lagi mendadak menyerang pikiran. Tak ingin terjebak begitu lama, saya segera memutuskan membuka YouTube dan memutar lagu secara acak. Terima kasih yang besar pantas diucapkan kepada mesin algoritma YouTube yang telah menuntun saya pada perkenalan dengan Khun Narin lewat [sebuah video](https://www.youtube.com/watch?v=w-R3xKy_wmo) berjudul “Chackim.”
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w-R3xKy_wmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Video ini berdurasi sekitar tiga menit, mengambil lokasi di suatu sawah yang enggak subur-subur amat, serta direkam dengan peralatan amatir. Di dalam video itu, terdapat tujuh lelaki yang sama-sama mengenakan pakaian khas Hawaii berwarna hijau. Mereka memegang alat musik, dari gitar, bass, sampai perkusi, dan mengitari _sound system_ yang dipasang di atas gerobak.
 
 Tak lama berselang, si pemukul perkusi memberi tanda kepada yang lainnya untuk memainkan komposisi yang sudah disepakati. Lagu pun mengalun dengan mantap dan tiba-tiba saya dibuat melongo setengah takjub, sebelum akhirnya tawa meledak di sela-sela kehingan.
