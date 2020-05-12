@@ -1,5 +1,5 @@
 ---
-categories: '00'
+categories: '01'
 title: Virus Outbreak Jakarta Daily Life; Sebuah Photo Essay
 author: Hafitz Maulana
 bio: Hafitz Maulana adalah fotografer yang berdomisili di Jakarta. Ia sempat menjadi
