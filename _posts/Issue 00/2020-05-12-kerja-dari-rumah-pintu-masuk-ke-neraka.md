@@ -22,7 +22,7 @@ Konon, kejenuhan parah bisa menyumbang _creative block_ atau bahkan bikin _bloâ€
 
 Kemudian, jika saya mengajar dan meliput, ada mahasiswa atau narasumber _webinar_ yang kesulitan akses internet atau koneksinya tiba-tiba terputus. Meski masalahnya sepele, bisa _reconnect_ atau pakai platform lain yang lebih ramah kuota, hal ini lumayan _irritating_ bagi saya. Tentu saya tidak bisa menyalahkan mereka yang akses internetnya sedang buruk, tapi poinnya adalah, sering ada gangguan ketika kita memakai teknologi komunikasi selama bekerja sekarang ini. Ditambah lagi adanya _noise_ yang datang kapan pun dan dari mana pun.
 
-Teman saya sesama pengajar sempat mengeluhkan hal yang sama, _mood-_nya untuk kuliah terpengaruh oleh situasi pembatasan sosial. Biasanya, dia dapat _chemistry_ ketika tatap muka mengajar mahasiswa, bisa interaksi langsung lihat muka masing-masing dari mereka, jalan mengitari kelas atau malah saling lempar tawa bersama mahasiswa sambil tos-tosan. Sekarang? Cuma bisa pasang mata dan kuping di depan layar saja.
+Teman saya sesama pengajar sempat mengeluhkan hal yang sama, *mood-*nya untuk kuliah terpengaruh oleh situasi pembatasan sosial. Biasanya, dia dapat _chemistry_ ketika tatap muka mengajar mahasiswa, bisa interaksi langsung lihat muka masing-masing dari mereka, jalan mengitari kelas atau malah saling lempar tawa bersama mahasiswa sambil tos-tosan. Sekarang? Cuma bisa pasang mata dan kuping di depan layar saja.
 
 Sementara mahasiswa saya, yang di umur mereka lagi getol _nongkrong_ dan kelayapan, merasa stres juga karena mesti kehilangan momen semacam itu. Bisa, kata mereka, tetap menjalin interaksi lewat aplikasi _meeting_. Tapi, toh, rasanya seperti mengunyah Chiki minus MSG.
 
