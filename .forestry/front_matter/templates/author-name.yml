@@ -1,4 +1,15 @@
 ---
-label: author-name
+label: author-data
 hide_body: true
-fields: []
+display_field: name
+fields:
+- name: name
+  type: text
+  config:
+    required: true
+  label: Nama
+- name: bio
+  type: text
+  config:
+    required: false
+  label: Bio
