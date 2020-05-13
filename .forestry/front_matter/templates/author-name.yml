@@ -1,5 +1,5 @@
 ---
-label: author-data
+label: author-name
 hide_body: true
 display_field: name
 fields:
