@@ -6,8 +6,7 @@ fields:
 - name: name
   type: blocks
   label: Nama
-  template_types:
-  - bio
+  template_types: []
   config:
     min: 
     max: 
