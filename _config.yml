@@ -20,10 +20,9 @@
 
 title:           Zin Abidin
 description:     >- # this means to ignore newlines until "baseurl:"
-  Zin Abidin
-baseurl:         "" # the subpath of your site, e.g. /blog
-url:             "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:
+  Zin Abidin merupakan bacaan alternatif yang membahas apa saja. Dikemas secara ringan dan sehangat abidin.
+baseurl:         "/" # the subpath of your site, e.g. /blog
+url:             "https://zinabidin.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 plugins:
@@ -31,7 +30,7 @@ plugins:
 
 collections:
   issue:
-    output: true
+    output:      true
 
 defaults:
   -
