@@ -4,7 +4,10 @@ hide_body: true
 display_field: name
 fields:
 - name: name
-  type: text
-  config:
-    required: true
+  type: blocks
   label: Nama
+  template_types:
+  - bio
+  config:
+    min: 
+    max: 
