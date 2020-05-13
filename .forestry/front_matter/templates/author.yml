@@ -11,3 +11,5 @@ fields:
     min: 
     max: 
   hidden: false
+pages:
+- _data/author.yml
