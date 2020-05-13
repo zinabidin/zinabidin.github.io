@@ -1,4 +1,13 @@
 ---
 label: Author
 hide_body: false
-fields: []
+fields:
+- name: author
+  type: blocks
+  label: Penulis
+  template_types:
+  - author-name
+  config:
+    min: 
+    max: 
+  hidden: false
